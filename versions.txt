@@ -1,0 +1,4 @@
+sketch_simpleSwitch.cpp.hex 2
+sketch_TemperatureMeter.cpp.hex 2
+sketch_transceiver.cpp.hex 2
+sketch_magneticSensor.cpp.hex 2
